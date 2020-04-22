@@ -1,4 +1,4 @@
-# T-Header script
+# Hacker-Banner script
 This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlight plugins and terminal header with own name for TERMUX. 
 ## Preview of after setup completed..
 <img src="https://user-images.githubusercontent.com/28594846/42722171-e92e650c-8764-11e8-8f65-76a318c1de27.jpeg" width="200" hight="220">
@@ -17,8 +17,8 @@ This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlig
 
 
 1. `apt update && apt install git -y`
-2. `git clone https://github.com/remo7777/T-Header.git`
-3. `cd T-Header/`
+2. `git clone https://github.com/HackyAbinash/hacker-banner.git`
+3. `cd hacker-banner/`
 4. `ls`
 5. `bash t-header.sh`
 6. after complete all processing just --open new session--
